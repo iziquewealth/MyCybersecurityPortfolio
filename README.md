@@ -3,7 +3,7 @@
 #isaac’s cybersecurity portfolio 
 
 Welcome to my cybersecurity portfolio. I recently completed networking studies and am currently focussed on cybersecurity.
-##SKILLS
+##SKILLS:
 -networking 
 -Linux
 -Wireshark
@@ -11,11 +11,11 @@ Welcome to my cybersecurity portfolio. I recently completed networking studies a
 -Python(Learning)
 Cybersecurity Fundamentals 
 
-##Current Goals
+##Current Goals:
 -Complete TryHackMe learning path
 -Build security tools with Python
 -Learn SOC operations
 -Earn securityPlus
 
-##Projects
+##Projects:
 This repository contains my cybersecurity lab, write-ups, and Project
