@@ -1,5 +1,7 @@
 # MyCybersecurityPortfolio
-#isaacs cybersecurity portfolio 
+
+#isaac’s cybersecurity portfolio 
+
 Welcome to my cybersecurity portfolio. I recently completed networking studies and am currently focussed on cybersecurity.
 ##SKILLS
 -networking 
