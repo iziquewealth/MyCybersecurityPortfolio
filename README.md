@@ -6,7 +6,7 @@ Welcome to my cybersecurity portfolio. I recently completed networking studies a
 ##SKILLS
 -networking 
 -Linux
-Wireshark
+-Wireshark
 -Nmap
 -Python(Learning)
 Cybersecurity Fundamentals 
